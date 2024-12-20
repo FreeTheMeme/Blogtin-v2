@@ -1,40 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
   <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/furry/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/project/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/posts/1734639233933-project-tails/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/outside/</loc>
+    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/posts/1734637750690-the-great-lakes/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
+  </url><url>
+    <loc>http://localhost:1313/tags/minecraft/</loc>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/posts/1734640670000-tree_farm_new_bridge/</loc>
     <lastmod>2024-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
+  </url><url>
+    <loc>http://localhost:1313/tags/other/</loc>
+    <lastmod>2024-07-19T02:41:21-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/tag/</loc>
+    <lastmod>2024-07-19T02:41:21-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/posts/the_first_post/</loc>
     <lastmod>2024-07-19T02:41:21-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

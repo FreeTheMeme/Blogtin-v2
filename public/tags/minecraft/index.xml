@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Minecraft on Tin Labs</title>
+    <title>Minecraft on Blogtin</title>
     <link>http://localhost:1313/tags/minecraft/</link>
-    <description>Recent content in Minecraft on Tin Labs</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Minecraft on Blogtin</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tree farm new bridge</title>
       <link>http://localhost:1313/posts/1734640670000-tree_farm_new_bridge/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/1734640670000-tree_farm_new_bridge/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1734640670000-tree_farm_new_bridge/featured.png" />
+      <description>Okay, so this is the second post on the blog.</description>
     </item>
-    
   </channel>
 </rss>
