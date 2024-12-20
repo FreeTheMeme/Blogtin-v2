@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Tin Labs"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "At the forefront of memery."
+logo = "window.jpg"

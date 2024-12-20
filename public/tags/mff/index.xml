@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mff on Tin Labs</title>
+    <link>http://localhost:38605/tags/mff/</link>
+    <description>Recent content in Mff on Tin Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:38605/tags/mff/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MFF</title>
+      <link>http://localhost:38605/posts/1734640486539-mff/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:38605/posts/1734640486539-mff/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:38605/posts/1734640486539-mff/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

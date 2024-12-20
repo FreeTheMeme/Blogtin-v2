@@ -1,0 +1,14 @@
+[[main]]
+name = "posts"
+pageRef = "posts"
+identifier = "NDwbvBq0LD"
+weight = 9999
+
+[[main]]
+name = "Furry"
+pageRef = "/tags/furry/"
+identifier = "1YUlJusdp8"
+weight = 9999
+
+[[footer]]
+none = "none"
