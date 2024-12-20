@@ -5,4 +5,4 @@ draft: true
 description: "a description"
 tags: ["furry","project"]
 ---
-i will keep updateing tihs for all project updates
+i will keep updateing this for all project updates in this article (this might change)
