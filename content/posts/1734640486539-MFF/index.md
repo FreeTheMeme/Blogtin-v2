@@ -1,9 +1,9 @@
 ---
-title: "MFF"
-date: 2024-12-19
+title: "MFF 2024"
+date: 2024-12-20
 draft: true
 description: "a description"
-tags: ["furry", "mff"]
+tags: ["furry", "mff", "con log"]
 ---
 # MFF con log
 
@@ -27,6 +27,8 @@ Usually for any given con I've only gone to like one panel. I mostly try to hang
 
 I also went to the rave. Probably one of the best. MFF raves seem to be the most incredible raves at any convention I've gone to.
 ![at the rave](/images/mff/featured.png)
+photo courtesy of [Cody](https://x.com/HyenaSniff/status/1864940277514858780)
+
 Also, on the Sky Bridge, I saw a wine glass sitting on a window sill. I was like, there has to be some sort of story behind this. Why was it just left here? 
 ![image](/images/mff/image.png)
 
