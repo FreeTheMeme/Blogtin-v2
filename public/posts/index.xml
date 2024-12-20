@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Blogtin</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on Blogtin</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Tails🦊</title>
-      <link>http://localhost:1313/posts/1734639233933-project-tails/</link>
+      <link>https://example.org/posts/1734639233933-project-tails/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/1734639233933-project-tails/</guid>
+      <guid>https://example.org/posts/1734639233933-project-tails/</guid>
       <description>&lt;h2 id=&#34;long-time-no-see&#34;&gt;long time no see&lt;/h2&gt;</description>
     </item>
     <item>
       <title>The Great Lakes</title>
-      <link>http://localhost:1313/posts/1734637750690-the-great-lakes/</link>
+      <link>https://example.org/posts/1734637750690-the-great-lakes/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/1734637750690-the-great-lakes/</guid>
+      <guid>https://example.org/posts/1734637750690-the-great-lakes/</guid>
       <description>As someone who lives in Michigan.</description>
     </item>
     <item>
       <title>Tree farm new bridge</title>
-      <link>http://localhost:1313/posts/1734640670000-tree_farm_new_bridge/</link>
+      <link>https://example.org/posts/1734640670000-tree_farm_new_bridge/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/1734640670000-tree_farm_new_bridge/</guid>
+      <guid>https://example.org/posts/1734640670000-tree_farm_new_bridge/</guid>
       <description>Okay, so this is the second post on the blog.</description>
     </item>
     <item>
       <title>The First Post🤯🤯🤯🤯</title>
-      <link>http://localhost:1313/posts/the_first_post/</link>
+      <link>https://example.org/posts/the_first_post/</link>
       <pubDate>Fri, 19 Jul 2024 02:41:21 -0400</pubDate>
-      <guid>http://localhost:1313/posts/the_first_post/</guid>
+      <guid>https://example.org/posts/the_first_post/</guid>
       <description></description>
     </item>
   </channel>

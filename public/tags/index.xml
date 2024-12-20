@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blogtin</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Blogtin</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Furry</title>
-      <link>http://localhost:1313/tags/furry/</link>
+      <link>https://example.org/tags/furry/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/furry/</guid>
+      <guid>https://example.org/tags/furry/</guid>
       <description></description>
     </item>
     <item>
       <title>Project</title>
-      <link>http://localhost:1313/tags/project/</link>
+      <link>https://example.org/tags/project/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/project/</guid>
+      <guid>https://example.org/tags/project/</guid>
       <description></description>
     </item>
     <item>
       <title>Outside</title>
-      <link>http://localhost:1313/tags/outside/</link>
+      <link>https://example.org/tags/outside/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/outside/</guid>
+      <guid>https://example.org/tags/outside/</guid>
       <description></description>
     </item>
     <item>
       <title>Minecraft</title>
-      <link>http://localhost:1313/tags/minecraft/</link>
+      <link>https://example.org/tags/minecraft/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/minecraft/</guid>
+      <guid>https://example.org/tags/minecraft/</guid>
       <description></description>
     </item>
     <item>
       <title>Other</title>
-      <link>http://localhost:1313/tags/other/</link>
+      <link>https://example.org/tags/other/</link>
       <pubDate>Fri, 19 Jul 2024 02:41:21 -0400</pubDate>
-      <guid>http://localhost:1313/tags/other/</guid>
+      <guid>https://example.org/tags/other/</guid>
       <description></description>
     </item>
     <item>
       <title>Tag</title>
-      <link>http://localhost:1313/tags/tag/</link>
+      <link>https://example.org/tags/tag/</link>
       <pubDate>Fri, 19 Jul 2024 02:41:21 -0400</pubDate>
-      <guid>http://localhost:1313/tags/tag/</guid>
+      <guid>https://example.org/tags/tag/</guid>
       <description></description>
     </item>
   </channel>

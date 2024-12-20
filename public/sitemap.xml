@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/furry/</loc>
+    <loc>https://example.org/tags/furry/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/project/</loc>
+    <loc>https://example.org/tags/project/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/1734639233933-project-tails/</loc>
+    <loc>https://example.org/posts/1734639233933-project-tails/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/outside/</loc>
+    <loc>https://example.org/tags/outside/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/1734637750690-the-great-lakes/</loc>
+    <loc>https://example.org/posts/1734637750690-the-great-lakes/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/minecraft/</loc>
+    <loc>https://example.org/tags/minecraft/</loc>
     <lastmod>2024-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/1734640670000-tree_farm_new_bridge/</loc>
+    <loc>https://example.org/posts/1734640670000-tree_farm_new_bridge/</loc>
     <lastmod>2024-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/other/</loc>
+    <loc>https://example.org/tags/other/</loc>
     <lastmod>2024-07-19T02:41:21-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/tag/</loc>
+    <loc>https://example.org/tags/tag/</loc>
     <lastmod>2024-07-19T02:41:21-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/the_first_post/</loc>
+    <loc>https://example.org/posts/the_first_post/</loc>
     <lastmod>2024-07-19T02:41:21-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://example.org/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://example.org/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
