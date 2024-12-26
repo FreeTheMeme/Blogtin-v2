@@ -1,7 +1,7 @@
 ---
 title: "MFF 2024"
 date: 2024-12-20
-draft: true
+draft: false
 description: "a description"
 tags: ["furry", "mff", "con log"]
 ---
